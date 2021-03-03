@@ -11,4 +11,3 @@ Similar to the [DevOps](https://en.wikipedia.org/wiki/DevOps) or [DataOps](https
 Azure ML contains a number of asset management and orchestration services to help you manage the lifecycle of your model training & deployment workflows.
 
 With Azure ML + Azure DevOps you can effectively and cohesively manage your datasets, experiments, models, and ML-infused applications.
-![ML lifecycle](./media/ml-lifecycle.png)
